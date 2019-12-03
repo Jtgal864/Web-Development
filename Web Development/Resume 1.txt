@@ -1,0 +1,33 @@
+<html>
+<head>
+   <title> Resume</title>
+</head>
+<body bgcolor="white">
+<img src="index.jpg" atl="my photo"
+width="100"align="right"/>
+<h1 align ="center">Justin David Galentine</h1>
+<p align="center">
+Jdgalentine864@gmail.com<br/>
+phone: 8643572170<br/><br/><br/>
+</p>
+<hr/>
+<h2>Education</h2>
+<ul>
+<li>Computer Science Major</li>
+<li> GPA: 1.6</li>
+<li> </li>
+<li>2015-2019 Spartanburg High School</li>
+</ul>
+<h2>experience</h2>
+<ul>
+<li> Community Service around the school, and my city.</li>
+<h2>Skills</h2>
+<li>Computer:C++, Autocad, excell, Word, Powerpoint</li>
+<li>Languages: English,Chinese</li>
+<h3> Social media</h3>
+<a href="https://www.facebook.com/"> facebook contact</a>
+
+
+
+</body>
+</html>
